@@ -1,0 +1,52 @@
+mouse events -
+click
+dblclick
+mouseover
+mouseout
+mousedown
+mouseup
+mousemove
+
+
+keyboard events -
+keydown
+keyup
+keypress
+
+form events -
+submit
+change
+focus
+blur
+
+window events -
+load
+unload
+resize
+scroll
+
+drag events -
+dragstart
+dragover
+drop
+drag
+dragend
+
+touch events -
+touchstart
+touchmove
+touchend
+touchcancel
+
+media events -
+play
+pause
+ended
+timeupdate
+
+other events -
+error
+contextmenu
+focusin
+focusout
+
